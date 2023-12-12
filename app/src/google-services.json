@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "303573196952",
+    "firebase_url": "https://tictoctoe-b218a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tictoctoe-b218a",
+    "storage_bucket": "tictoctoe-b218a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303573196952:android:2e854ac723fb824a55b0ed",
+        "android_client_info": {
+          "package_name": "com.borja.android.tictactoe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw5kGoutOsh_jf2l26rA6ZM7WRBggOAho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
